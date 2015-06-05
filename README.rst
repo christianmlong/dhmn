@@ -4,6 +4,12 @@ DHMN
 
 DHMN Demo
 
+Introduction
+------------
+
+This is a quick demo version of a Flask site. This is part of the work done at the DHMN Appleton Civic Hackathon, June 6. 2015.
+
+
 
 Quickstart
 ----------
